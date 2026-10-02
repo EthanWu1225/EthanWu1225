@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi, 我是 EthanW 
 
-<!--
-**EthanWu1225/EthanWu1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个下班后写代码的独立开发者 —— 做些小而顺手、不打扰的工具。
 
-Here are some ideas to get you started:
+ 我在做什么
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 一个人包办：想法 → 设计 → 编码 → 上架
+- 作品形式不一：有的完全免费，有的需要付费购买
+- 偏好：功能实在、界面干净、体积小巧
+- 没有团队，也没有投资，全靠业余时间一点点磨
+
+ ☕ 支持我
+
+如果我的作品曾帮到过你，欢迎在 爱发电 支持我：
+
+> 👉 https://afdian.com/a/EthanWu
+
+说明：
+
+- 支持纯属自愿，量力而行，一杯咖啡就很知足
+- 作品的功能不会因为是否赞助而有所不同
+- 买过付费作品的朋友，其实已经支持过我了，不必重复 🙏
+- 我会把开发进度和幕后故事不定期分享给支持者
+
+ 作品
+
+陆续整理中。这里会放一些小工具的开发记录与说明。
+
+ 联系与反馈
+
+- 有问题或建议，欢迎提 Issue
+- 也欢迎通过爱发电的私信留言
+
+---
+
+感谢每一位路过、留下、或者只是用一用的人 💛
